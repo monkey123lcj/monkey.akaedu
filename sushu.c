@@ -1,5 +1,5 @@
-III
-#include <stdio.h>
+error function
+include <stdio.h>
 #include <math.h>
  void main(void)
 {
@@ -7,7 +7,7 @@ III
 	float k;
 	int m=0;
 	for(i=101;i<200;i++)
-	{
+        {
 	k=sqrt(i);
 	for(j=2;j<k;j++)
 	{
